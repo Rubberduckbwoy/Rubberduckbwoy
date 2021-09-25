@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Lucky!
+- 🌱 I’m currently learning simple code
+- 💞️ I’m looking to collaborate on a virtual assistant like jarvus in the mcu and a virtual assistant like carla in sk8 the infinity
+- 📫 You can reach me by DM at any of my social media which are all @rubberduckbwoy as well :)
